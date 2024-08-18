@@ -1,1 +1,2 @@
-# NeuronetiX-Projects-C-
+# NeuronetiX-Projects-C++
+
