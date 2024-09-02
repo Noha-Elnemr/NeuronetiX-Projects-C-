@@ -7,3 +7,6 @@ Each branch contains a separate project.
 
 ### Project 1
 [Pet Adoption Game](https://github.com/Noha-Elnemr/NeuronetiX-Projects-C-/tree/project1)
+
+### Project 2 
+[Personal Finance Tracker](https://github.com/Noha-Elnemr/NeuronetiX-Projects-C-/tree/Project2)
