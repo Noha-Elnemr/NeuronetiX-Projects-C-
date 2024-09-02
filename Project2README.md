@@ -97,5 +97,5 @@ The system provides the following key features:
 
 ## How to run the project
 
-- **in the terminal write** `g++ Personal_Finance_Tracker.cpp -o pet`
+- **in the terminal write** `g++ Personal_Finance_Tracker.cpp -o finance`
 - **to genrate** `./finance`
