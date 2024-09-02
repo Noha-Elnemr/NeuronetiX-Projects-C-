@@ -94,3 +94,8 @@ The system provides the following key features:
 
 - **Invalid Inputs**: Ensure all inputs are correctly formatted. For example, amounts should be numerical values, and descriptions and categories should be properly spelled.
 - **Sorting Issues**: If sorting does not work as expected, check that the sorting logic is correctly implemented and applied.
+
+## How to run the project
+
+- **in the terminal write** `g++ Personal_Finance_Tracker.cpp -o pet`
+- **to genrate** `./pet`
