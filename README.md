@@ -10,3 +10,6 @@ Each branch contains a separate project.
 
 ### Project 2 
 [Personal Finance Tracker](https://github.com/Noha-Elnemr/NeuronetiX-Projects-C-/tree/Project2)
+
+### Project 3
+[Multiplication Learning Game](https://github.com/Noha-Elnemr/NeuronetiX-Projects-C-/tree/Project3)
