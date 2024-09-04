@@ -92,3 +92,8 @@ The program contains the following:
 
 - **Random Number Generation**: The game uses the `<cstdlib>` library for `std::rand()` and `std::srand()` to generate random numbers for question creation.
 - **Time Seeding**: The `<ctime>` library provides `std::time()` for seeding the random number generator, ensuring that each game session generates unique questions.
+
+## How to run the project
+
+- **in the terminal write** `g++ Multiplication_Learning_Game.cpp -o game`
+- **to genrate** `./game`
