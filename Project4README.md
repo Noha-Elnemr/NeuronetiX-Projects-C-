@@ -49,4 +49,8 @@ This project also serves as an introduction to core Object-Oriented Programming 
 
 ![UML Diagram](./UML.png)
 
+## How to run the project
+
+- **in the terminal write** `g++ main.cpp -o main`
+- **to genrate** `./main`
 
