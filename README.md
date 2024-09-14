@@ -15,4 +15,4 @@ Each branch contains a separate project.
 [Multiplication Learning Game](https://github.com/Noha-Elnemr/NeuronetiX-Projects-C-/tree/Project3)
 
 ### OOP Project 4
-[Multiplication Learning Game](https://github.com/Noha-Elnemr/NeuronetiX-Projects-C-/tree/Project4)
+[Library Management System (LMS)](https://github.com/Noha-Elnemr/NeuronetiX-Projects-C-/tree/Project4)
