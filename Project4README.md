@@ -47,6 +47,6 @@ This project also serves as an introduction to core Object-Oriented Programming 
 
 ## UML Class Diagram:
 
-![UML Diagram](/absolute/E:\c++ intern\project1_OOP/UML.png)
+![UML Diagram](./UML.png)
 
 
