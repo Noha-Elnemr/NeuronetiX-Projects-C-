@@ -43,4 +43,8 @@ This project also serves as an introduction to core Object-Oriented Programming 
 - **Association**: The `Library` class has a one-to-many relationship with both `Book` and `Member`.
 - **Aggregation**: A `Member` can have multiple borrowed `Books`.
 
+---
+
+## UML Class Diagram:
+
 ![UML Diagram](E:\c++ intern\project1_OOP)
