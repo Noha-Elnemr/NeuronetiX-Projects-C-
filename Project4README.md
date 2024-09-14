@@ -47,5 +47,6 @@ This project also serves as an introduction to core Object-Oriented Programming 
 
 ## UML Class Diagram:
 
-![UML Diagram](https://drive.google.com/drive/my-drive)
+![UML Diagram](/absolute/E:\c++ intern\project1_OOP/UML.png)
+
 
