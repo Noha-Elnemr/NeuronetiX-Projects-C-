@@ -1,5 +1,5 @@
 # NeuronetiX-Projects-C++
-# [Neurotix](https://www.linkedin.com/company/neuronetixacademy/posts/?feedView=all) 
+# [NeuronetiX](https://www.linkedin.com/company/neuronetixacademy/posts/?feedView=all) 
 Repo Projects for C++ Internship
 
 ## Repo Structure 
